@@ -2,90 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" > 
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/</loc>
+    <loc>https://mrpe.github.io/</loc>
     <image:image>
-       <image:loc>http://kennarar.ru.is/mathiasrp/static/images/mathiasrp.jpg</image:loc>
+       <image:loc>https://mrpe.github.io/static/images/mathiasrp.jpg</image:loc>
        <image:caption>Mathias Ruggaard Pedersen</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/fasterthan.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/fasterthan.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/fasterthan-appendix.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/fasterthan-appendix.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/approximation-theory.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/approximation-theory.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/approximation-theory-appendix.pdf</loc>
-  </url>
-    <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/talks/quantla.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/approximation-theory-appendix.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/talks/idea4cps.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/talks/quantla.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/measure-theory.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/talks/idea4cps.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/master.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/measure-theory.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/bachelor.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/master.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/extended-abstract-pps.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/bachelor.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/timed-comparisons.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/extended-abstract-pps.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/timed-comparisons-full.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/timed-comparisons.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/pps-poster.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/timed-comparisons-full.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/simuldist.pdf</loc>
+    <loc>hhttps://mrpe.github.io/pubs/pps-poster.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/simuldist-short.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/simuldist.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/talks/lata.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/simuldist-short.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/talks/qest.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/talks/lata.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/setta-extended.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/talks/qest.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/phd.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/setta-extended.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/talks/phd-slides.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/phd.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/cv.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/talks/phd-slides.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/qapl-short.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/cv.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/talks/qapl.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/qapl-short.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/ictcs.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/talks/qapl.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/ictcs-appendix.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/ictcs.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/nwpt.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/ictcs-appendix.pdf</loc>
   </url>
   <url>
-    <loc>http://kennarar.ru.is/mathiasrp/pubs/talks/nwpt.pdf</loc>
+    <loc>https://mrpe.github.io/pubs/nwpt.pdf</loc>
+  </url>
+  <url>
+    <loc>https://mrpe.github.io/pubs/talks/nwpt.pdf</loc>
+  </url>
+  <url>
+    <loc>https://mrpe.github.io/pubs/priority-axiomatisation.pdf</loc>
+  </url>
 </urlset>
